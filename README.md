@@ -115,8 +115,8 @@ Ruta: [`/opt/scripts/backup_full.sh`](adicionales/backup_full.sh)
 - Muestra ayuda con `--help` o `-h`
 
 #### Tareas programadas (`cron`):
-- Todos los días a las 00:00 → backup de `/var/log`
-- Lunes, miércoles y viernes a las 23:00 → backup de `/www_dir`
+- [Todos los días a las 00:00 → backup de `/var/log`](adicionales/crontab.txt)
+- [Lunes, miércoles y viernes a las 23:00 → backup de `/www_dir`](adicionales/crontab.txt)
 
 Ejemplo de ejecución manual:
 
