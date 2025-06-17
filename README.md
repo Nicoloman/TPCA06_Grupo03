@@ -106,7 +106,7 @@ mkdir /backup_dir
 
 ### 🗃️ Script de Backup
 
-Ruta: `/opt/scripts/backup_full.sh`
+Ruta: [`/opt/scripts/backup_full.sh`](adicionales/backup_full.sh)
 
 #### Funcionalidad:
 - Acepta argumentos `--origen` y `--destino`
