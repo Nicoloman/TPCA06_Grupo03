@@ -34,7 +34,7 @@ Trabajo práctico realizado en una máquina virtual Debian 12 ARM64, cuyo objeti
 
 ---
 
-### 📁 Compartición de archivos
+### 📁 Shared folder
 
 Se montó una carpeta compartida desde UTM para intercambiar archivos adicionales (claves, scripts, etc.):  
 ```bash
